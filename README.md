@@ -8,5 +8,5 @@
 #
 # Version 1.0
 # Date  2023-03-03
-# Copyright (C) 2023 - Aaron Dee Roberts
+
 
